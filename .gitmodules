@@ -1,0 +1,9 @@
+[submodule "libraries/RPi_Hat_Template"]
+	path = libraries/RPi_Hat_Template
+	url = https://github.com/devbisme/RPi_Hat_Template.git
+[submodule "libraries/RPi_Zero_pHat_Template"]
+	path = libraries/RPi_Zero_pHat_Template
+	url = https://github.com/mikelawrence/RPi_Zero_pHat_Template.git
+[submodule "libraries/RPi5-HATplus"]
+	path = libraries/RPi5-HATplus
+	url = https://github.com/MisterHW/RPi5-HATplus.git
